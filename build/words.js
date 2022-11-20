@@ -20,6 +20,7 @@ export const WORDS = [
     'place',
     'sound',
     'great',
+    'soare',
     'again',
     'still',
     'every',
